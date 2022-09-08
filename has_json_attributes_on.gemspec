@@ -19,5 +19,5 @@ Gem::Specification.new do |s|
   s.add_dependency "rails"
   s.add_dependency "pg"
   s.add_dependency  "virtus", "~> 1.0.5"
-  s.add_dependency  "default_value_for", "~> 3.0.1"
+  s.add_dependency  "default_value_for", "~> 3.4.0"
 end
